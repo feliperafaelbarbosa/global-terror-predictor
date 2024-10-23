@@ -1,7 +1,3 @@
-Aqui está um modelo de README para o seu projeto **Global Terror Predictor**:
-
----
-
 # Global Terror Predictor
 
 Este projeto tem como objetivo prever qual grupo terrorista realizou um ataque específico utilizando dados da base de dados Global Terrorism Database (GTD). A análise e o modelo preditivo foram desenvolvidos utilizando Python e diversas bibliotecas de machine learning.
