@@ -1,4 +1,4 @@
-# Global Terror Predictor
+# Aprendizado de Máquina para Predição de Incidentes de grupos Terroristas
 
 Este projeto tem como objetivo prever qual grupo terrorista realizou um ataque específico utilizando dados da base de dados Global Terrorism Database (GTD). A análise e o modelo preditivo foram desenvolvidos utilizando Python e diversas bibliotecas de machine learning.
 
