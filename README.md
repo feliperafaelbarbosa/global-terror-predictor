@@ -34,22 +34,6 @@ A base de dados contém informações detalhadas sobre incidentes terroristas, c
 - **Matplotlib e Seaborn**: Bibliotecas para visualização de dados.
 - **Global Terrorism Database (GTD)**: Fonte dos dados utilizados para o treinamento e teste do modelo.
 
-## Instalação
-
-### Pré-requisitos
-
-Certifique-se de ter o Python e as bibliotecas necessárias instaladas no seu ambiente. Você pode instalar as dependências utilizando o comando:
-
-```bash
-pip install -r requirements.txt
-```
-
-Se o arquivo `requirements.txt` ainda não estiver disponível, você pode instalar as dependências manualmente:
-
-```bash
-pip install pandas scikit-learn matplotlib seaborn
-```
-
 ### Clonando o Repositório
 
 Clone o repositório para o seu ambiente local:
