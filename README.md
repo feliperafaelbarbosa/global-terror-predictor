@@ -7,7 +7,6 @@ Este projeto tem como objetivo prever qual grupo terrorista realizou um ataque e
 - [Introdução](#introdução)
 - [Objetivos](#objetivos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
 - [Como Usar](#como-usar)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
